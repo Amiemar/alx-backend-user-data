@@ -1,1 +1,1 @@
-## ALX Queuing System
+## ALX User authentication service
